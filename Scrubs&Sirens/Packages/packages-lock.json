@@ -1,5 +1,6 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "com.unity.burst": {
       "version": "1.8.16",
       "depth": 1,
@@ -208,6 +209,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> main
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
